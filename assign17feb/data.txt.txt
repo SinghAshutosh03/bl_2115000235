@@ -1,0 +1,7 @@
+This is an example text file.
+It contains multiple lines.
+We are using it for testing file reading performance in Java.
+Reading large files efficiently is important for performance.
+FileReader reads character by character.
+InputStreamReader reads bytes and converts them to characters.
+This helps improve efficiency for large files.
